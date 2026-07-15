@@ -1,0 +1,5 @@
+node_modules/
+dist/
+
+# This local profile contains proxy credentials; start from default.example.ts.
+config/default.ts

@@ -6,7 +6,7 @@
       "name": "surge-merge",
       "dependencies": {
         "@valibot/to-json-schema": "^1.7.0",
-        "argc": "github:ethan-huo/argc#v7.5.0",
+        "argc": "github:ethan-huo/argc#v7.6.1",
         "valibot": "^1.4.1",
         "yaml": "^2.9.0",
       },
@@ -135,7 +135,7 @@
 
     "@valibot/to-json-schema": ["@valibot/to-json-schema@1.7.1", "", { "peerDependencies": { "valibot": "^1.4.0" } }, "sha512-3qkmU6KXWh8GIThEAW3kuRHPQBMjWkKy+Ppz3WkUucx53DTpOa6siMn4xDGSOhlVyMrDaJTCTMLYPZVAIk1P0A=="],
 
-    "argc": ["argc@github:ethan-huo/argc#cb4cd8b", { "dependencies": { "oxc-parser": "0.137.0", "yaml": "2.9.0" }, "peerDependencies": { "@standard-schema/spec": "^1.0.0" } }, "ethan-huo-argc-cb4cd8b", "sha512-RL7KAC1Jg3QJl+M2lMrm1Lrq4Wkv0t93S566OmSPqEN52A6Rj/jlrLtrBYcqxa3pTBMmgki/YLa7PS0jNO2/ZQ=="],
+    "argc": ["argc@github:ethan-huo/argc#f7a5ebb", { "dependencies": { "oxc-parser": "0.137.0", "yaml": "2.9.0" }, "peerDependencies": { "@standard-schema/spec": "^1.0.0" } }, "ethan-huo-argc-f7a5ebb", "sha512-8g/VzRGZnfZxebjn7jryYEM2fI9aBurK3XAqiacsOUGugVrztP98MGHT2Sn/Bxlp4Z61SGv2I/RU8/qCwWZ22A=="],
 
     "bun-types": ["bun-types@1.3.14", "", { "dependencies": { "@types/node": "*" } }, "sha512-4N0ig0fEomHt5R0KCFWjovxow98rIoRwKolrYdCcknNwMekCXRnWEUvgu5soYV8QXtVsrUD8B95MBOZGPvr6KQ=="],
 
